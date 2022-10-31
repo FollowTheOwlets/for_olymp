@@ -1,4 +1,4 @@
-package matrix_tests;
+package matrix;
 
 import java.io.FileInputStream;
 import java.io.IOException;

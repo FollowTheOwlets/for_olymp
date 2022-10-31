@@ -1,9 +1,8 @@
 package matrix_tests;
 
+import matrix.Matrix;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
 
 public class MatrixTest {
     Matrix matrix;

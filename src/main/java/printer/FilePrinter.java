@@ -1,7 +1,7 @@
 package printer;
 
 import logger.Logger;
-import matrix_tests.Matrix;
+import matrix.Matrix;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

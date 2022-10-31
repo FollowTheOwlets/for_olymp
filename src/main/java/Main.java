@@ -1,6 +1,6 @@
 import logger.Logger;
-import matrix_tests.Matrix;
-import matrix_tests.MatrixBuilder;
+import matrix.Matrix;
+import matrix.MatrixBuilder;
 import printer.ConsolePrinter;
 import printer.FilePrinter;
 import printer.PrinterInterface;

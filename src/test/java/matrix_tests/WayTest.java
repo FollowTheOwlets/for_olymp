@@ -1,5 +1,6 @@
 package matrix_tests;
 
+import matrix.Way;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

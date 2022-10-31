@@ -1,7 +1,7 @@
 package printer;
 
 import logger.Logger;
-import matrix_tests.Matrix;
+import matrix.Matrix;
 
 public class ConsolePrinter implements PrinterInterface {
     private final Matrix matrix;
